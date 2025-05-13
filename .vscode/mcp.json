@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "weather-mcp-server": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/Users/bohe/Desktop/mcptest/build/index.js"]
+    }
+  }
+}
