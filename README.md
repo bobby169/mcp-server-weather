@@ -1,5 +1,7 @@
 # Weather MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@bobby169/mcp-server-weather)](https://smithery.ai/server/@bobby169/mcp-server-weather)
+
 This project is a Model Context Protocol (MCP) server that provides weather information.
 
 ## Features
